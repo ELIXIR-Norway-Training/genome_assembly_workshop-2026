@@ -10,11 +10,7 @@ This workshop is sponsored by [EBP-Nor](https://www.ebpnor.org/), [Norbis](https
 
 The workshop consists of three days. 
 
-[Day 1](day1_genome_assembly/README.md) deals with genome assembly, evaluation and curation. 
-
-[Day 2](day2_genome_annotation/README.md) covers genome annotation and introduces comparative genomics.
-
-[Day 3](day3_comparative_genomics/README.md) continues comparative genomics with visualisation of results and ends the day with comparative genomics of repeats.
+(day1_genome_assembly/README.md) deals with genome assembly, evaluation and curation. 
 
 
 
